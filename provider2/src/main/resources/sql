@@ -1,0 +1,6 @@
+drop table user;
+create table user(
+	id bigint(11) NOT NULL AUTO_INCREMENT,
+	name varchar(100),
+	age varchar(3)
+);

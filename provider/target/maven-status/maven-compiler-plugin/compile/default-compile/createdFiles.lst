@@ -1,0 +1,5 @@
+com\feifeishi\ProviderApplication.class
+com\feifeishi\service\UserService.class
+com\feifeishi\service\imp\UserServiceImpl.class
+com\feifeishi\controller\UserController.class
+com\feifeishi\dao\UserDao.class

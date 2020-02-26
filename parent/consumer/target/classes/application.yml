@@ -1,0 +1,8 @@
+server: 
+  port: 8003
+  
+eureka:
+  client:
+    register-with-eureka: false
+    service-url: 
+      defaultZone: http://127.0.0.1:9003/eureka/,http://127.0.0.1:9002/eureka/,http://127.0.0.1:9001/eureka/
